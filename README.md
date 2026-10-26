@@ -16,4 +16,12 @@ I am interested in exploring different areas of technology, developing my techni
 - **Other:** Object-Oriented Programming, Data Structures & Algorithms, Computer Networks, Computer Architecture
 
 ## Projects
-I will be adding my academic and personal projects here soon.
+### [Cartesian Trees and Range Minimum Queries](https://github.com/anastasiapdanastasopoulou/cartesian-trees-range-queries)
+
+**Diploma Thesis | Java**
+
+Implemented and compared different approaches to Range Minimum Query (RMQ), Lowest Common Ancestor (LCA), and Bottleneck Edge Query (BEQ) problems.
+
+The project explores Cartesian Trees, Sparse Tables, Euler Tours, Tarjan's Offline LCA, Union-Find, and Cartesian Tree of Tree (CToT), with validation using common test datasets.
+
+🔗 [View Project on GitHub](https://github.com/anastasiapdanastasopoulou/cartesian-trees-range-queries)
