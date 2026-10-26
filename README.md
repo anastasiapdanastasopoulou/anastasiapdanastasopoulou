@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Anastasia! 👋
 
-<!--
-**anastasiapdanastasopoulou/anastasiapdanastasopoulou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science and Engineering Graduate
+University of Ioannina, Greece
 
-Here are some ideas to get you started:
+## About Me
+I am a Computer Science and Engineering graduate with an academic background in programming, computer systems, and information technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am interested in exploring different areas of technology, developing my technical skills, and working on challenging projects.
+
+## Technical Skills
+- **Programming:** Python, C, C++, Java, Assembly, MATLAB
+- **Databases:** SQL, MySQL, SQLite
+- **Development Tools:** Git, GitHub, VS Code, IntelliJ IDEA, Eclipse
+- **Operating Systems:** Windows, Linux
+- **Other:** Object-Oriented Programming, Data Structures & Algorithms, Computer Networks, Computer Architecture
+
+## Projects
+I will be adding my academic and personal projects here soon.
